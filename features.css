@@ -46,6 +46,10 @@ body{
 	font-size: 14px;
 
 }
+#cont3Width{
+	min-width: 58px;
+}
+
 .contentContainer{
 	display: flex;
 	flex-direction: column;
@@ -180,6 +184,7 @@ a{
 	line-height: 22px;
 	margin-top: 15px;
 }
+
 /*CONTAINER4*/
 .contentContainer4{
 	max-width: 964px;
